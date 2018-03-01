@@ -3499,11 +3499,17 @@ http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unima
 #EXTINF:-1,Latinos:Chilevision
 http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
 
+#EXTINF:-1,Latinos:TVN | HD
+http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?
+
+#EXTINF:-1,Latinos:MEGA | HD
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+
+#EXTINF:-1,Latinos:Canal 13 - Chile
+http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
+
 #EXTINF:-1,Latinos:COSMOVISION
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-
-#EXTINF:-1,Latinos:TV Chile
-http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
 
 #EXTINF:-1,Latinos:Cablenoticias
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
