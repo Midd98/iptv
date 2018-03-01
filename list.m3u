@@ -1,0 +1,15 @@
+#EXTM3U url-tvg="https://docs.google.com/uc?export=download&id=1VZDB8NqfNEB08qvFECjuT5_D4akdHeRe"
+#EXTINF:0 tvg-name="IPTV" tvg-logo="http://iptvplayerlatinom3u.com/wp-content/uploads/2017/08/iptv-mexico-225x200.png", Canales del: 21/02/2018 10:41:40 p. m.
+http://iptvmexico.xyz/ch/01.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Canal 2 HD" tvg-logo="http://iptvmexico.xyz/logos/png/1.png", Canal 2 HD
+http://www.iptvmexico.xyz/paola/1.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Foro TV HD" tvg-logo="http://iptvmexico.xyz/logos/png/2001.png", Foro TV HD
+http://www.iptvmexico.xyz/paola/2001.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Canal 5 HD" tvg-logo="http://iptvmexico.xyz/logos/png/294.png", Canal 5 HD
+http://www.iptvmexico.xyz/paola/294.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Azteca 7" tvg-logo="http://iptvmexico.xyz/logos/png/720.png", Azteca 7
+http://www.iptvmexico.xyz/paola/720.m3u8
