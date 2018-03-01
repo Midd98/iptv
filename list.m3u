@@ -1,15 +1,263 @@
-#EXTM3U url-tvg="https://docs.google.com/uc?export=download&id=1VZDB8NqfNEB08qvFECjuT5_D4akdHeRe"
-#EXTINF:0 tvg-name="IPTV" tvg-logo="http://iptvplayerlatinom3u.com/wp-content/uploads/2017/08/iptv-mexico-225x200.png", Canales del: 21/02/2018 10:41:40 p. m.
-http://iptvmexico.xyz/ch/01.m3u8
-
-#EXTINF:-1 tvg-shift=0 tvg-name="Canal 2 HD" tvg-logo="http://iptvmexico.xyz/logos/png/1.png", Canal 2 HD
-http://www.iptvmexico.xyz/paola/1.m3u8
-
-#EXTINF:-1 tvg-shift=0 tvg-name="Foro TV HD" tvg-logo="http://iptvmexico.xyz/logos/png/2001.png", Foro TV HD
-http://www.iptvmexico.xyz/paola/2001.m3u8
-
-#EXTINF:-1 tvg-shift=0 tvg-name="Canal 5 HD" tvg-logo="http://iptvmexico.xyz/logos/png/294.png", Canal 5 HD
-http://www.iptvmexico.xyz/paola/294.m3u8
-
-#EXTINF:-1 tvg-shift=0 tvg-name="Azteca 7" tvg-logo="http://iptvmexico.xyz/logos/png/720.png", Azteca 7
-http://www.iptvmexico.xyz/paola/720.m3u8
+#EXTM3U
+#EXTINF:-1,A PLUS
+https://142.0.43.4:25463/live/televall/02022018/9.m3u8
+#EXTINF:-1,ADN40
+https://142.0.43.4:25463/live/televall/02022018/23.m3u8
+#EXTINF:-1,A&E
+https://142.0.43.4:25463/live/televall/02022018/125.m3u8
+#EXTINF:-1,HTV MUSIC
+https://142.0.43.4:25463/live/televall/02022018/237.m3u8
+#EXTINF:-1,AMC
+https://142.0.43.4:25463/live/televall/02022018/39.m3u8
+#EXTINF:-1,DHE
+https://142.0.43.4:25463/live/televall/02022018/174.m3u8
+#EXTINF:-1,ANIMAL PLANET
+https://142.0.43.4:25463/live/televall/02022018/90.m3u8
+#EXTINF:-1,ANTENA3 INT HD
+https://142.0.43.4:25463/live/televall/02022018/36.m3u8
+#EXTINF:-1,ATRESERIES HD
+https://142.0.43.4:25463/live/televall/02022018/106.m3u8
+#EXTINF:-1,ATRESERIES HD Op2
+https://142.0.43.4:25463/live/televall/02022018/119.m3u8
+#EXTINF:-1,AZTECA 7 HD
+https://142.0.43.4:25463/live/televall/02022018/115.m3u8
+#EXTINF:-1,AZTECA7 Op2
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
+#EXTINF:-1,AZTECA UNO
+https://142.0.43.4:25463/live/televall/02022018/8.m3u8
+#EXTINF:-1,AZTECA UNO HD
+https://142.0.43.4:25463/live/televall/02022018/166.m3u8
+#EXTINF:-1,AZCINEMA
+https://142.0.43.4:25463/live/televall/02022018/62.m3u8
+#EXTINF:-1,AZCLIC
+https://142.0.43.4:25463/live/televall/02022018/63.m3u8
+#EXTINF:-1,AZCORAZON
+https://142.0.43.4:25463/live/televall/02022018/56.m3u8
+#EXTINF:-1,AZMUNDO
+https://142.0.43.4:25463/live/televall/02022018/57.m3u8
+#EXTINF:-1,BANDAMAX
+https://142.0.43.4:25463/live/televall/02022018/44.m3u8
+#EXTINF:-1,BABY TV
+https://142.0.43.4:25463/live/televall/02022018/187.m3u8
+#EXTINF:-1,BOOMERANG
+https://142.0.43.4:25463/live/televall/02022018/94.m3u8
+#EXTINF:-1,C7 JALISCO
+https://142.0.43.4:25463/live/televall/02022018/18.m3u8
+#EXTINF:-1,CABLE NOTICIAS
+https://142.0.43.4:25463/live/televall/02022018/31.m3u8
+#EXTINF:-1,EUROCHANNEL
+https://142.0.43.4:25463/live/televall/02022018/163.m3u8
+#EXTINF:-1,CARTOON
+https://142.0.43.4:25463/live/televall/02022018/140.m3u8
+#EXTINF:-1,CBTV Morelia
+https://142.0.43.4:25463/live/televall/02022018/24.m3u8
+#EXTINF:-1,CINEMAX
+https://142.0.43.4:25463/live/televall/02022018/145.m3u8
+#EXTINF:-1,CNN ES
+https://142.0.43.4:25463/live/televall/02022018/32.m3u8
+#EXTINF:-1,ANTENA 3
+https://142.0.43.4:25463/live/televall/02022018/33.m3u8
+#EXTINF:-1,CONGRESO
+https://142.0.43.4:25463/live/televall/02022018/11.m3u8
+#EXTINF:-1,DISNEY CH
+https://142.0.43.4:25463/live/televall/02022018/133.m3u8
+#EXTINF:-1,DISNEY JR
+https://142.0.43.4:25463/live/televall/02022018/66.m3u8
+#EXTINF:-1,DISNEY XD
+https://142.0.43.4:25463/live/televall/02022018/68.m3u8
+#EXTINF:-1,Discovery KIDS
+https://142.0.43.4:25463/live/televall/02022018/132.m3u8
+#EXTINF:-1,Discovery CIVILIZATION
+https://142.0.43.4:25463/live/televall/02022018/89.m3u8
+#EXTINF:-1,Discovery WORLD
+https://142.0.43.4:25463/live/televall/02022018/85.m3u8
+#EXTINF:-1,DISTRITO COMEDIA
+https://142.0.43.4:25463/live/televall/02022018/116.m3u8
+#EXTINF:-1,DW LATINO
+https://142.0.43.4:25463/live/televall/02022018/167.m3u8
+#EXTINF:-1,DW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1,E!
+https://142.0.43.4:25463/live/televall/02022018/150.m3u8
+#EXTINF:-1,EFEKTOTV HD
+https://142.0.43.4:25463/live/televall/02022018/25.m3u8
+#EXTINF:-1,EL GOURMET
+https://142.0.43.4:25463/live/televall/02022018/43.m3u8
+#EXTINF:-1,EL TIEMPO
+https://142.0.43.4:25463/live/televall/02022018/34.m3u8
+#EXTINF:-1,MULTIPREMIER
+https://142.0.43.4:25463/live/televall/02022018/181.m3u8
+#EXTINF:-1,FORMULA 1
+https://142.0.43.4:25463/live/televall/02022018/51.m3u8
+#EXTINF:-1,FOROTV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:-1,ACUSTIK
+https://acustik.cdnonline.com.mx/playlist/acustiksecurepl.m3u8
+#EXTINF:-1,FOOD Network
+https://142.0.43.4:25463/live/televall/02022018/93.m3u8
+#EXTINF:-1,FOX
+https://142.0.43.4:25463/live/televall/02022018/105.m3u8
+#EXTINF:-1,FOX UHD
+https://142.0.43.4:25463/live/televall/02022018/171.m3u8
+#EXTINF:-1,FOX CINEMA
+https://142.0.43.4:25463/live/televall/02022018/127.m3u8
+#EXTINF:-1,FOX CLASSICS
+https://142.0.43.4:25463/live/televall/02022018/122.m3u8
+#EXTINF:-1,FXM
+https://142.0.43.4:25463/live/televall/02022018/138.m3u8
+#EXTINF:-1,GALATV
+https://142.0.43.4:25463/live/televall/02022018/37.m3u8
+#EXTINF:-1,OLYMPIC CH
+https://142.0.43.4:25463/live/televall/02022018/168.m3u8
+#EXTINF:-1,GLITZ
+https://142.0.43.4:25463/live/televall/02022018/183.m3u8
+#EXTINF:-1,Golden EDGE
+https://142.0.43.4:25463/live/televall/02022018/139.m3u8
+#EXTINF:-1,GOLDEN PLUS
+https://142.0.43.4:25463/live/televall/02022018/103.m3u8
+#EXTINF:-1,HISTORY
+https://142.0.43.4:25463/live/televall/02022018/147.m3u8
+#EXTINF:-1,HOLATV
+https://142.0.43.4:25463/live/televall/02022018/153.m3u8
+#EXTINF:-1,Investigation Discovery
+https://142.0.43.4:25463/live/televall/02022018/95.m3u8
+#EXTINF:-1,JUDICIAL
+https://142.0.43.4:25463/live/televall/02022018/12.m3u8
+#EXTINF:-1,LIFETIME
+https://142.0.43.4:25463/live/televall/02022018/135.m3u8
+#EXTINF:-1,LAS ESTRELLAS
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+#EXTINF:-1,LAS ESTRELLAS HD
+https://142.0.43.4:25463/live/televall/02022018/201.m3u8
+#EXTINF:-1,HMX
+https://142.0.43.4:25463/live/televall/02022018/189.m3u8
+#EXTINF:-1,MEXIQUENSE
+https://142.0.43.4:25463/live/televall/02022018/13.m3u8
+#EXTINF:-1,MILENIO
+https://142.0.43.4:25463/live/televall/02022018/27.m3u8
+#EXTINF:-1,FOROTV Op2
+https://142.0.43.4:25463/live/televall/02022018/28.m3u8
+#EXTINF:-1,MTV
+https://142.0.43.4:25463/live/televall/02022018/45.m3u8
+#EXTINF:-1,MTV Op2
+https://142.0.43.4:25463/live/televall/02022018/144.m3u8
+#EXTINF:-1,MTV HITS
+https://142.0.43.4:25463/live/televall/02022018/108.m3u8
+#EXTINF:-1,MTVLIVE
+https://142.0.43.4:25463/live/televall/02022018/46.m3u8
+#EXTINF:-1,MASCHIC
+https://142.0.43.4:25463/live/televall/02022018/179.m3u8
+#EXTINF:-1,MULTIMEDIOS PLUS +
+https://142.0.43.4:25463/live/televall/02022018/188.m3u8
+#EXTINF:-1,NATGEO KIDS
+https://142.0.43.4:25463/live/televall/02022018/83.m3u8
+#EXTINF:-1,NATGEO
+https://142.0.43.4:25463/live/televall/02022018/41.m3u8
+#EXTINF:-1,UNO
+https://142.0.43.4:25463/live/televall/02022018/172.m3u8
+#EXTINF:-1,VE PLUS
+https://142.0.43.4:25463/live/televall/02022018/173.m3u8
+#EXTINF:-1,NICKTOONS
+https://142.0.43.4:25463/live/televall/02022018/67.m3u8
+#EXTINF:-1,NICK
+https://142.0.43.4:25463/live/televall/02022018/97.m3u8
+#EXTINF:-1,NICK 2
+https://142.0.43.4:25463/live/televall/02022018/134.m3u8
+#EXTINF:-1,NICK JR
+https://142.0.43.4:25463/live/televall/02022018/96.m3u8
+#EXTINF:-1,TELEMUNO INT
+https://142.0.43.4:25463/live/televall/02022018/141.m3u8
+#EXTINF:-1,NUESTRA VISION Mich
+https://142.0.43.4:25463/live/televall/02022018/29.m3u8
+#EXTINF:-1,OCHOTV GDL HD
+https://142.0.43.4:25463/live/televall/02022018/19.m3u8
+#EXTINF:-1,ONCETV IPN
+https://142.0.43.4:25463/live/televall/02022018/20.m3u8
+#EXTINF:-1,PANICO
+https://142.0.43.4:25463/live/televall/02022018/2.m3u8
+#EXTINF:-1,PANICO HD
+https://latamonly-lh.akamaihd.net/i/panicohd_1@578061/master.m3u8
+#EXTINF:-1,PARAMOUNT
+https://142.0.43.4:25463/live/televall/02022018/156.m3u8
+#EXTINF:-1,PASIONES
+https://142.0.43.4:25463/live/televall/02022018/177.m3u8
+#EXTINF:-1,RCG1 Saltillo
+https://142.0.43.4:25463/live/televall/02022018/15.m3u8
+#EXTINF:-1,RCG2 Saltillo
+https://142.0.43.4:25463/live/televall/02022018/16.m3u8
+#EXTINF:-1,RCG3 Saltillo
+https://142.0.43.4:25463/live/televall/02022018/17.m3u8
+#EXTINF:-1,RCNNVLS
+https://142.0.43.4:25463/live/televall/02022018/238.m3u8
+#EXTINF:-1,RITMOSON
+https://142.0.43.4:25463/live/televall/02022018/175.m3u8
+#EXTINF:-1,RT Noticias HD
+https://142.0.43.4:25463/live/televall/02022018/35.m3u8
+#EXTINF:-1,SHOW Business
+https://142.0.43.4:25463/live/televall/02022018/218.m3u8
+#EXTINF:-1,SONY
+https://142.0.43.4:25463/live/televall/02022018/155.m3u8
+#EXTINF:-1,TV5
+https://142.0.43.4:25463/live/televall/02022018/240.m3u8
+#EXTINF:-1,SPACE HD
+https://142.0.43.4:25463/live/televall/02022018/104.m3u8
+#EXTINF:-1,SYFY
+https://142.0.43.4:25463/live/televall/02022018/113.m3u8
+#EXTINF:-1,TBS
+https://142.0.43.4:25463/live/televall/02022018/130.m3u8
+#EXTINF:-1,TELECINCO HD
+https://142.0.43.4:25463/live/televall/02022018/111.m3u8
+#EXTINF:-1,TELEFORMULA
+https://142.0.43.4:25463/live/televall/02022018/30.m3u8
+#EXTINF:-1,CARACOL
+https://142.0.43.4:25463/live/televall/02022018/146.m3u8
+#EXTINF:-1,CANAL 22
+https://142.0.43.4:25463/live/televall/02022018/158.m3u8
+#EXTINF:-1,TELEHIT Plus
+https://142.0.43.4:25463/live/televall/02022018/47.m3u8
+#EXTINF:-1,TELEMAX Hermosillo
+https://142.0.43.4:25463/live/televall/02022018/21.m3u8
+#EXTINF:-1,TELERITMO
+https://142.0.43.4:25463/live/televall/02022018/176.m3u8
+#EXTINF:-1,TELEMUNDO LA
+https://142.0.43.4:25463/live/televall/02022018/184.m3u8
+#EXTINF:-1,TELEMUNDO 51
+https://142.0.43.4:25463/live/televall/02022018/131.m3u8
+#EXTINF:-1,CDF
+http://w-suhd.com:8000/live/wxyz/6789/21294.m3u8
+#EXTINF:-1,TIIN
+https://142.0.43.4:25463/live/televall/02022018/61.m3u8
+#EXTINF:-1,CINE LATINO
+https://142.0.43.4:25463/live/televall/02022018/217.m3u8
+#EXTINF:-1,TLC
+https://142.0.43.4:25463/live/televall/02022018/128.m3u8
+#EXTINF:-1,TLNOVELAS
+https://142.0.43.4:25463/live/televall/02022018/58.m3u8
+#EXTINF:-1,TNT SERIES
+https://142.0.43.4:25463/live/televall/02022018/160.m3u8
+#EXTINF:-1,TOONCAST
+https://142.0.43.4:25463/live/televall/02022018/59.m3u8
+#EXTINF:-1,TVE
+https://142.0.43.4:25463/live/televall/02022018/241.m3u8
+#EXTINF:-1,TRUTV
+https://142.0.43.4:25463/live/televall/02022018/152.m3u8
+#EXTINF:-1,TVMAS Veracruz
+https://142.0.43.4:25463/live/televall/02022018/22.m3u8
+#EXTINF:-1,TVUNAM
+https://142.0.43.4:25463/live/televall/02022018/14.m3u8
+#EXTINF:-1,UNICABLE
+https://142.0.43.4:25463/live/televall/02022018/38.m3u8
+#EXTINF:-1,VH1 UHD
+https://142.0.43.4:25463/live/televall/02022018/169.m3u8
+#EXTINF:-1,UNIVERSAL CH
+https://142.0.43.4:25463/live/televall/02022018/84.m3u8
+#EXTINF:-1,VH1
+https://142.0.43.4:25463/live/televall/02022018/142.m3u8
+#EXTINF:-1,VH1 Classics
+https://142.0.43.4:25463/live/televall/02022018/60.m3u8
+#EXTINF:-1,YES!
+https://142.0.43.4:25463/live/televall/02022018/242.m3u8
+#EXTINF:-1,FOX COMEDY
+https://142.0.43.4:25463/live/televall/02022018/199.m3u8
+#EXTINF:-1,MAXUP
+https://142.0.43.4:25463/live/televall/02022018/198.m3u8
